@@ -61,6 +61,7 @@ Console.SleepOnStart=False
 Console.SleepStartThresholdSeconds=25
 Console.SuppressLogAtStart=False
 Console.ThrowawayMessageRegex=(WARNING|ERROR): Shader.+
+Console.ThrowawayMessageRegex=^[\d:]+ engine\/E CTextConsoleWin::GetLine: !GetNumberOfConsoleInputEvents$
 Console.UpdateAvailableRegex=^\[\d\d:\d\d:\d\d\] \[INFO\] A new server update is available! v[\d\.]+.$
 Console.UserActions={}
 Console.UserChatRegex=^$

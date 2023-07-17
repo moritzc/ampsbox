@@ -1,0 +1,19 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "server,name",
+        "FieldName": "Servername",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Servername",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "s&box AMP Powered Server",
+        "Placeholder": "s&box AMP Powered Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]

@@ -15,5 +15,39 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
+    },
+    {
+        "DisplayName": "Map",
+        "Category": "Server Settings",
+        "Description": "Select the map",
+        "Keywords": "map",
+        "FieldName": "map",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "map",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "facepunch.flatgrass",
+        "Placeholder": "facepunch.flatgrass",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Gamemode",
+        "Category": "Server Settings",
+        "Description": "Select the Gamemode",
+        "Keywords": "gamemode",
+        "FieldName": "gamemode",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "gamemode",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "facepunch.sandbox",
+        "Placeholder": "facepunch.sandbox",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
     }
 ]

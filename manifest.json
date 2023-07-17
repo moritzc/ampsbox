@@ -1,10 +1,10 @@
 {
-    "id": "2ae5e517-a979-482d-a927-33846f51614e",
+    "id": "67146600-f140-4221-9c72-0d9535a7bfd4",
     "authors": [
-        "weeman45"
+        "moritzc"
     ],
-    "origin": "https://github.com/weeman45/AMPTemplates.git",
-    "url": "https://github.com/weeman45/AMPTemplates",
+    "origin": "https://github.com/moritzc/ampsbox.git",
+    "url": "https://github.com/moritzc/ampsbox",
     "imagefile": "",
-    "prefix": "weeman45"
+    "prefix": "moritzc"
 }

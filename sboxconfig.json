@@ -73,7 +73,7 @@
         "Description": "Select extensions/addons (like \"gvar.admin_ball;gvar.sbox_radio\") multiple addons separated with ; inbetween \"\"",
         "Keywords": "extensions",
         "FieldName": "extensions",
-        "InputType": "Textarea",
+        "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "extensions",
         "IncludeInCommandLine": true,

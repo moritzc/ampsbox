@@ -1,10 +1,10 @@
 {
-    "id": "67146600-f140-4221-9c72-0d9535a7bfd4",
+    "id": "a286a1f6-7d71-44d7-a84d-6ab55b075b73",
     "authors": [
         "moritzc"
     ],
-    "origin": "https://github.com/moritzc/ampsbox.git",
-    "url": "https://github.com/moritzc/ampsbox",
+    "origin": "https://github.com/moritzc/AMPTemplates.git",
+    "url": "https://github.com/moritzc/AMPTemplates",
     "imagefile": "",
-    "prefix": ""
+    "prefix": "moritzc"
 }

@@ -7,7 +7,7 @@
         "FieldName": "Servername",
         "InputType": "text",
         "IsFlagArgument": false,
-        "ParamFieldName": "Servername",
+        "ParamFieldName": "hostname",
         "IncludeInCommandLine": true,
         "DefaultValue": "s&box AMP Powered Server",
         "Placeholder": "s&box AMP Powered Server",

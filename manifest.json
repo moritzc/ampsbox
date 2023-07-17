@@ -3,8 +3,8 @@
     "authors": [
         "moritzc"
     ],
-    "origin": "https://github.com/moritzc/AMPTemplates.git",
-    "url": "https://github.com/moritzc/AMPTemplates",
+    "origin": "https://github.com/moritzc/ampsbox.git",
+    "url": "https://github.com/moritzc/ampsbox",
     "imagefile": "",
-    "prefix": "moritzc"
+    "prefix": ""
 }
